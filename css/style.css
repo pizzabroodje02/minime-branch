@@ -1,0 +1,14 @@
+body{
+    background-color: lime;
+    background-image: url(../img/taylor2.gif);
+}
+h1 {
+    color:pink;
+    font-size: 100px;
+}
+p {
+    color:red;
+}
+img {
+    border-radius: 50%;
+}
